@@ -13,6 +13,7 @@ C:\Users\ayush\OneDrive\Desktop\scratch (2)\scratch\smartcity-backend\src\main\j
 C:\Users\ayush\OneDrive\Desktop\scratch (2)\scratch\smartcity-backend\src\main\java\com\smartcity\SmartCityApplication.java
 C:\Users\ayush\OneDrive\Desktop\scratch (2)\scratch\smartcity-backend\src\main\java\com\smartcity\dto\response\LoginResponse.java
 C:\Users\ayush\OneDrive\Desktop\scratch (2)\scratch\smartcity-backend\src\main\java\com\smartcity\service\ComplaintService.java
+C:\Users\ayush\OneDrive\Desktop\scratch (2)\scratch\smartcity-backend\src\main\java\com\smartcity\config\CorsConfig.java
 C:\Users\ayush\OneDrive\Desktop\scratch (2)\scratch\smartcity-backend\src\main\java\com\smartcity\entity\User.java
 C:\Users\ayush\OneDrive\Desktop\scratch (2)\scratch\smartcity-backend\src\main\java\com\smartcity\enums\Role.java
 C:\Users\ayush\OneDrive\Desktop\scratch (2)\scratch\smartcity-backend\src\main\java\com\smartcity\config\AdminDataLoader.java
